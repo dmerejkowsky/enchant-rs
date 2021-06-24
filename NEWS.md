@@ -1,3 +1,6 @@
+### v0.2.1 (unreleased)
+* Fixed premature freeing of Broker (https://github.com/patronus-checker/enchant-rs/issues/4).
+
 ### v0.2.0 (2019-05-22)
 * Ported to Enchant 2.0.
 
